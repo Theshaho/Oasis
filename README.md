@@ -2,7 +2,9 @@
 ![346274774-d27be0f4-e8cd-443a-a067-f7fe3abdb6be](https://github.com/user-attachments/assets/e9c1fa5a-2d9f-4797-9679-b11ae284a28c)
 
 Welcome to Oasis Terminal! This README will explain step by step the installation and usage of update_token.js and oasis_terminal.js scripts on Ubuntu system.
-#Requirements
+
+# Requirements
+
 Before you start, make sure the following prerequisites are installed on your Ubuntu system:
 
 Node.js
